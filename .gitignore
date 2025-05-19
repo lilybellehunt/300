@@ -1,0 +1,6 @@
+src/csc300.practice/*
+!src/csc300.practice/
+.classpath
+.project
+.settings/
+*.class
