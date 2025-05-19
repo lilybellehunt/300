@@ -3,36 +3,34 @@
 This Java project contains assignments and practice code for the CSC300 course.
 
 ## Project Structure
-
 csc300/
 ├── data/
-│ ├── ints.txt
-│ ├── origin.txt
-│ └── xmltest1.txt
+│   ├── ints.txt
+│   ├── origin.txt
+│   └── xmltest1.txt
 ├── src/
-│ └── csc300/
-│ ├── practice/
-│ │ ├── Counter.java
-│ │ ├── HelloWorld.java
-│ │ └── PostFixEvaluator.java
-│ ├── CountTokens.java
-│ ├── Euclid.java
-│ ├── EuclidMethod.java
-│ ├── ExceptionPractice.java
-│ ├── FileStats.java
-│ ├── LengthOfLongestWord.java
-│ ├── LongestWord.java
-│ ├── LotteryOdds.java
-│ ├── MergeSort.java
-│ ├── ParseXML.java
-│ ├── QuickSort.java
-│ ├── RandomTest.java
-│ ├── SelectionSort.java
-│ ├── StackofStrings.java
-│ ├── TournamentMax.java
-│ └── XMLToken.java
+│   └── csc300/
+│       ├── practice/
+│       │   ├── Counter.java
+│       │   ├── HelloWorld.java
+│       │   └── PostFixEvaluator.java
+│       ├── CountTokens.java
+│       ├── Euclid.java
+│       ├── EuclidMethod.java
+│       ├── ExceptionPractice.java
+│       ├── FileStats.java
+│       ├── LengthOfLongestWord.java
+│       ├── LongestWord.java
+│       ├── LotteryOdds.java
+│       ├── MergeSort.java
+│       ├── ParseXML.java
+│       ├── QuickSort.java
+│       ├── RandomTest.java
+│       ├── SelectionSort.java
+│       ├── StackofStrings.java
+│       ├── TournamentMax.java
+│       └── XMLToken.java
 ├── .gitignore
-
 
 ## How to Build and Run
 
